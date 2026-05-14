@@ -34,7 +34,3 @@ CivicPulse is an interactive Tableau dashboard built using Boston 311 service re
 ## Dataset
 
 Data source: Boston 311 Service Requests from Analyze Boston.
-
-## Resume Bullet
-
-Built an interactive Tableau dashboard analyzing 10K+ Boston 311 service requests to uncover service demand trends, department workload patterns, SLA compliance rates, overdue request bottlenecks, and geographic service hotspots across Boston.
