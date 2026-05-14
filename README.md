@@ -4,7 +4,7 @@ CivicPulse is an interactive Tableau dashboard built using Boston 311 service re
 
 ## Dashboard Preview
 
-![Dashboard Preview](screenshots/Dashboard Preview.png)
+![Dashboard Preview](screenshots/Dashboard_Preview.png)
 
 ## Project Objectives
 
